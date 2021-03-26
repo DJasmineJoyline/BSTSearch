@@ -12,8 +12,8 @@ Do you want to insert another element?  yes  </br>
 Enter the element to be inserted in the tree  4  </br>
 Do you want to insert another element?  no </br> 
 Inorder Traversal : The elements in the tree are 1 2 3 4  </br>
-Enter the element to be searched  6  
-</br>6 not found     
+Enter the element to be searched  6  </br>
+6 not found     
 </br>
 </br>
 ### Sample Input and Output 2:  </br>
@@ -26,5 +26,5 @@ Do you want to insert another element?  yes  </br>
 Enter the element to be inserted in the tree  3  </br>
 Do you want to insert another element?  no  </br>
 Inorder Traversal : The elements in the tree are 1 2 3 4  </br>
-Enter the element to be searched  3  
-</br>3 found
+Enter the element to be searched  3  </br>
+3 found
